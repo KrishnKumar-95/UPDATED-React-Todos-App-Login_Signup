@@ -1,0 +1,7 @@
+.btn {
+    border: 2px solid red;
+}
+
+.btn:hover {
+    background-color: #512782;
+}
